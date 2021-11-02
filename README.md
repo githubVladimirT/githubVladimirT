@@ -2,9 +2,4 @@
 
 Here are some ideas to get you started:
 
-- 🔭 Now I’m not currently working.
-- 🌱 Now I’m currently learning languages
-- 💬 Ask me about ...
-- 😄 Pronouns: you, he.
-
-![github](https://github.com/githubVladimirT)
+[Python Channel](https://t.me/joinchat/VRsh4P3Hkzg0YWM6)
