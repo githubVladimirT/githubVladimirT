@@ -10,12 +10,12 @@
 <a href="https://www.python.org/">
     <img src="https://img.icons8.com/fluency/48/000000/python.png"/>
 </a>
-<a href="data:text/html, <script>alert('Has not web site')</script>">
+<a href="#">
     <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
 </a>
 <a href="https://code.visualstudio.com/">
     <img src="https://img.icons8.com/fluency/48/000000/visual-studio-code-2019.png"/>
 </a>
-<a href="data:text/html, <script>alert('Has not web site')</script>">
+<a href="#">
     <img src="https://img.icons8.com/fluency/48/000000/linux-terminal.png"/>
 </a>
