@@ -8,7 +8,7 @@
 
 # Learning Technologies:
 
-<a href="https://golang.org/">
+<a href="https://go.dev/">
     <img src="https://img.icons8.com/color/50/000000/golang.png"/>
 </a>
 <a href="https://www.python.org/">
