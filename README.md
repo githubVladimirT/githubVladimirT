@@ -6,9 +6,6 @@
 
 # Learning Technologies:
 
-<a href="https://go.dev/">
-    <img src="https://img.icons8.com/color/50/000000/golang.png"/>
-</a>
 <a href="https://www.python.org/">
     <img src="https://img.icons8.com/fluency/48/000000/python.png"/>
 </a>
