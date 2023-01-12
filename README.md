@@ -1,22 +1,6 @@
 # Statistics:
 
 <div align="center">
-<a href="#">
-    <img align="left" alt="githubVladimirT's Github Status" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=githubVladimirT&show_icons=true&theme=chartreuse-dark" />
-</a>
-    
-# Learning Technologies:
-    
-<a href="https://www.python.org/">
-    <img src="https://img.icons8.com/fluency/48/000000/python.png"/>
-</a>
-<a href="#">
-    <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png"/>
-</a>
-<a href="https://code.visualstudio.com/">
-    <img src="https://img.icons8.com/fluency/48/000000/visual-studio-code-2019.png"/>
-</a>
-<a href="#">
-    <img src="https://img.icons8.com/fluency/48/000000/linux-terminal.png"/>
-</a>
+    <img align="left" alt="githubVladimirT's Github Status" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=githubVladimirT&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true" />
+    <img align="left" alt="githubVladimirT's Github Status" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=githubVladimirT&theme=chartreuse-dark" />
 </div>
