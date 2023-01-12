@@ -1,11 +1,12 @@
 # Statistics:
 
+<div align="center">
 <a href="#">
-    <img align="left" alt="githubVladimirT's Github Status" src="https://github-readme-stats.vercel.app/api?username=githubVladimirT&show_icons=true&theme=highcontrast" />
+    <img align="left" alt="githubVladimirT's Github Status" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=githubVladimirT&show_icons=true&theme=chartreuse-dark" />
 </a>
-
+    
 # Learning Technologies:
-
+    
 <a href="https://www.python.org/">
     <img src="https://img.icons8.com/fluency/48/000000/python.png"/>
 </a>
@@ -18,3 +19,4 @@
 <a href="#">
     <img src="https://img.icons8.com/fluency/48/000000/linux-terminal.png"/>
 </a>
+</div>
