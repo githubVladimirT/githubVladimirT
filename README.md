@@ -1,5 +1,6 @@
 # Statistics:
 
+
 <div align="left">
     <img height="350em" alt="githubVladimirT's Github Status" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=githubVladimirT&theme=chartreuse-dark&langs_count=7" />
     <img height="200em" alt="githubVladimirT's Github Status" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=githubVladimirT&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true" />
@@ -18,4 +19,13 @@
 <br>
 <br>
 
-<img align="center" alt="codewars" src="https://www.codewars.com/users/githubVladimirT/badges/large">
+<p align="center"> 
+    <img align="center" alt="codewars" src="https://www.codewars.com/users/githubVladimirT/badges/large">
+</p>
+
+<br>
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/githubVladimirT/count.svg" />
+</p>
