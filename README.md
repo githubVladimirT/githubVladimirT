@@ -29,3 +29,6 @@
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/githubVladimirT/count.svg" />
 </p>
+
+
+<p>TON: <b>EQDmG6kvzUyt8je6hbnoks9Xnk2BsOo9jdSwGEsGpczuq5yL</b></p>
