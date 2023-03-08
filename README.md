@@ -1,4 +1,4 @@
-# Statistics:
+# Statistics
 
 
 <div align="left">
@@ -6,7 +6,13 @@
     <img height="200em" alt="githubVladimirT's Github Status" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=githubVladimirT&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true" />
 </div>
 
-# Stacks:
+<br>
+
+<p align="left"> 
+    <img align="center" alt="codewars" src="https://www.codewars.com/users/githubVladimirT/badges/large">
+</p>
+
+# Stacks
 
 <div style="display: inline_block">
     <img align="center" alt="Python" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
@@ -17,18 +23,7 @@
 </div>
 
 <br>
-<br>
 
-<p align="center"> 
-    <img align="center" alt="codewars" src="https://www.codewars.com/users/githubVladimirT/badges/large">
-</p>
-
-<br>
-
-<p align="center"> 
-  Visitor count<br>
-  <img src="https://profile-counter.glitch.me/githubVladimirT/count.svg" />
-</p>
-
+# Payment
 
 <p>TON: <b>EQDmG6kvzUyt8je6hbnoks9Xnk2BsOo9jdSwGEsGpczuq5yL</b></p>
