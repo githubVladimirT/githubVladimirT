@@ -24,7 +24,3 @@
 </div>
 
 <br>
-
-# Payment
-
-<p>TON: <b>EQDmG6kvzUyt8je6hbnoks9Xnk2BsOo9jdSwGEsGpczuq5yL</b></p>
