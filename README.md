@@ -8,9 +8,9 @@
 
 <br>
 
-<p align="left"> 
+<!--<p align="left"> 
     <img align="center" alt="codewars" src="https://www.codewars.com/users/githubVladimirT/badges/large">
-</p>
+</p>-->
 
 # Stacks
 
