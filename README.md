@@ -2,7 +2,7 @@
 
 
 <div align="left">
-    <img height="350em" alt="githubVladimirT's Github Status" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=githubVladimirT&theme=chartreuse-dark&langs_count=7" />
+<!--     <img height="350em" alt="githubVladimirT's Github Status" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=githubVladimirT&theme=chartreuse-dark&langs_count=7" /> -->
     <img height="200em" alt="githubVladimirT's Github Status" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=githubVladimirT&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true" />
 </div>
 
