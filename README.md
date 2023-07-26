@@ -1,5 +1,5 @@
-# Statistics
-
+<!--# Statistics-->
+<h1 style="text-decoration: underline;">Statistics</h1>
 
 <div align="left">
 <!--     <img height="350em" alt="githubVladimirT's Github Status" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=githubVladimirT&theme=chartreuse-dark&langs_count=7" /> -->
@@ -12,7 +12,8 @@
     <img align="center" alt="codewars" src="https://www.codewars.com/users/githubVladimirT/badges/large">
 </p>-->
 
-# Stacks
+<!--# Stacks-->
+<h1 style="text-decoration: underline;">Stacks</h1>
 
 <div style="display: inline_block">
     <img align="center" alt="C++" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg">
